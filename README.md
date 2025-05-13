@@ -18,7 +18,7 @@ Esta é uma planilha em Excel desenvolvida para simular investimentos em **Fundo
 ---
 
 ## ✅ Como Usar
-1. Faça o download da planilha diretamente aqui: [Baixar Planilha de Simulação de Investimentos em FIIs](https://github.com/larissavitoriab/simulador-investimentos-fiis/raw/d75032e7987ee80626fb140d35890d24a147ee65/Simulação%20investimento%20-%20Larissa.xlsx).
+1. Faça o download da planilha diretamente aqui: [Baixar Planilha de Simulação de Investimentos em FIIs](https://github.com/larissavitoriab/simulador-investimentos-fiis/raw/main/Simulação%20investimento%20-%20Larissa.xlsx).
 2. Abra o arquivo Excel no seu computador.
 3. Insira os valores desejados para o investimento inicial, aporte mensal, rentabilidade e período.
 4. Visualize a simulação mês a mês e o gráfico de evolução do patrimônio.
