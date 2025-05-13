@@ -1,0 +1,6 @@
+# Ignorar arquivos temporários do Excel
+~$*.xls*
+*.tmp
+*.bak
+*.~lock.*
+*.log
